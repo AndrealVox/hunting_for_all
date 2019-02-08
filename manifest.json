@@ -1,0 +1,21 @@
+{
+   "info": {
+      "name": "Hunting For All",
+      "namespace": "hunting_for_all",
+      "version": 3,
+      "steam_file_id": "1633303016"
+   },
+   "default_locale": "en",
+   "aliases": {
+      "data:gm_index": "file(data/gm/gm_index.json)",
+      "animal_amenity": "file(data/kingdoms/animal_amenity.json)"
+   },
+   "mixintos": {
+      "stonehearth:data:gm_index": "hunting_for_all:data:gm_index",
+      "stonehearth:kingdoms:ascendancy": "hunting_for_all:animal_amenity",
+      "rayyas_children:kingdoms:rayyas_children": "hunting_for_all:animal_amenity"
+   },
+   "overrides": {},
+   "components": {},
+   "controllers": {}
+}

@@ -1,0 +1,11 @@
+{
+   "type": "campaign",
+   "rarity": "common",
+   "arcs": {
+      "trigger": {
+         "migratory_animals": "file(arcs/migratory_animals_arc.json)"
+      },
+      "challenge": {},
+      "climax": {}
+   }
+}

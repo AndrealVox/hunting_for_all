@@ -1,0 +1,8 @@
+{
+   "type": "index",
+   "campaigns": {
+      "hunting": {
+         "animal_camps_for_all": "file(campaigns/hunting/animal_campaign.json)"
+      }
+   }
+}
